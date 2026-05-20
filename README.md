@@ -62,7 +62,6 @@ client.close()
 
 ### RECIEVE.TXT:
 <img width="1310" height="758" alt="image" src="https://github.com/user-attachments/assets/b13f6e09-ece3-4ea0-af92-21a1143fd6de" />
-
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
